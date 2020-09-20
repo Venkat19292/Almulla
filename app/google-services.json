@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509586472119",
+    "firebase_url": "https://almulla-1d3db.firebaseio.com",
+    "project_id": "almulla-1d3db",
+    "storage_bucket": "almulla-1d3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509586472119:android:24228963ba092d2cb7e132",
+        "android_client_info": {
+          "package_name": "com.exchange.almulla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509586472119-80od6db1o9m0t1222gf8bcocj94ipao3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exchange.almulla",
+            "certificate_hash": "b28b75e5b9f57b6dca3d41e79cabee69c406d1e2"
+          }
+        },
+        {
+          "client_id": "509586472119-hl27ebs4o3f5pvurc4nh7pefinosn661.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLhu032Cj4O1Jtco_KvnqGA4iVncD3ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509586472119-hl27ebs4o3f5pvurc4nh7pefinosn661.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

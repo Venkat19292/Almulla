@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLight"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:id="@+id/btn_gplusLogin"
+        android:layout_width="210dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/background_card_10sp"
+        android:gravity="start"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <ImageView
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/ic_gmail_login" />
+
+        <TextView
+            android:id="@+id/txt_social_google"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingStart="4dp"
+            android:paddingLeft="4dp"
+            android:paddingEnd="1dp"
+            android:paddingRight="1dp"
+            android:text="Sign in with Google"
+            android:textColor="@color/colorBlack"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+</RelativeLayout>

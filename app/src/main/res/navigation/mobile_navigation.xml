@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_calculator">
+
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="com.exchange.almulla.ui.Fragments.CalculatoFragmet"
+
+        tools:layout="@layout/fragment_calc" />
+
+    <fragment
+        android:id="@+id/nav_encryption"
+        android:name="com.exchange.almulla.ui.Fragments.EncryptionFragment"
+        tools:layout="@layout/fragment_encryption" />
+
+    <fragment
+        android:id="@+id/nav_todo"
+        android:name="com.exchange.almulla.ui.Fragments.ToDoFragment"
+        tools:layout="@layout/fragment_todo" />
+
+    <fragment
+        android:id="@+id/nav_stopWatch"
+        android:name="com.exchange.almulla.ui.Fragments.StopWatchFragment"
+        tools:layout="@layout/fragment_stopwatch" />
+</navigation>

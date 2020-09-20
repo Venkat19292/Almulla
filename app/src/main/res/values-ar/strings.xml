@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="app_name">Almulla</string>-->
+    <string name="title_welcome">أهلا بك</string>
+
+    <string name="bottomMenu_calculator">أهلا بك</string>
+    <string name="bottomMenu_Encryption">التشفير</string>
+    <string name="bottomMenu_To_Do">لكى يفعل</string>
+    <string name="bottomMenu_Stopwatch"> ساعة التوقيف</string>
+    <string name="editText_hint_message">رسالة</string>
+    <string name="editText_hint_secretKey"> المفتاح السري</string>
+    <string name="btn_text_Encrypt">تشفير</string>
+    <string name="btn_text_Decrypt">فك تشفير</string>
+    <string name="title_delete">حذف</string>
+    <string name="popup_desc_delete">هل أنت متأكد أنك تريد حذف هذه المهمة؟</string>
+    <string name="popup_OK">حسنا</string>
+    <string name="popup_Cancel"> إلغاء</string>
+    <string name="edittext_taskname">اسم المهمة</string>
+    <string name="edittext_dateTime"> التاريخ و الوقت</string>
+    <string name="btn_save">أضف</string>
+    <string name="btn_clear"> واضح</string>
+
+    <string name="nav_change_lang">إلغاء</string>
+    <string name="nav_Logout">تسجيل خروج</string>
+    <string name="nav_Logout_question">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+
+    <string name="txt_encerpted_decrypted">تشفير/فك تشفير</string>
+
+</resources>
